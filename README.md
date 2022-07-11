@@ -1,0 +1,2 @@
+# -s-deskconfigs
+Configs debian
