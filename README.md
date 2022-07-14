@@ -25,9 +25,7 @@ I leave you with this anonymous quote found in several source codes:
 // knew how this one works.
 //Henceforth, only God knows!
 //
-//But if you still want to try to 
-
-optimize it and it doesn't 
+//But if you still want to try to optimize it and it doesn't 
 //work (which is very likely to happen),
 //Thank you for incrementing this counter to warn the next 
 //person.
