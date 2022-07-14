@@ -15,6 +15,7 @@ GTK (since you have xfce4 you may have gtk)
 ## To read if you have some time to lose
 For those pilgrims who will find this note on their way to becoming a "super user" or a "Linux wizard". You may already know that there are many paths to this higher state of being, and you may also know that there are as many paths as there are people on them. So take this as an example, not as a model. I have been trapped disappointed and satisfied along this path and I know very well that it is not over yet, I still have to discover Arch, i3-gaps, alacritty and many others! 
 
+So here is my path :  <br />
 Xubuntu xfce → Debian xfce → Kali linux xfce → Kali linux i3 → Debian i3 → and in the near future Arch linux i3
 
 
