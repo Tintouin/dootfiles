@@ -1,5 +1,5 @@
 #############  This .zshrc file is shitty made but it works fine it is composed of the auto-gnerated file by Oh-My-zsh and the kali linux .zshrc this is totally a personal preference because kali have some tweaks and have  nice prompt theme for both user and root 
-#(-: I hope you enjoy those tweaks and themes as I enjoy it.
+# (-: I hope you enjoy those tweaks and themes as I enjoy it.
 
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
