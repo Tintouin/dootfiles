@@ -20,6 +20,9 @@ If you want to select you owns check this website : https://gogh-co.github.io/Go
 &nbsp; ↳ Since you have xfce4 you may normally have gtk <br />
 Here is the theme that I've selected : https://github.com/TerminalHash/Modern <br />
 In my opinion it fits perfectly the violet/magenta theme I built here but feel free to chose your own and send a pull request !
+### BONUS: Firefox theme
+I've choosen the theme **Purple Prizm** <br />
+You can add it to your firefox here : https://addons.mozilla.org/fr/firefox/addon/purple-prizm/
 ## To read if you have some time to lose
 For those pilgrims who will find this note on their way to becoming a "super user" or a "Linux wizard". You may already know that there are many paths to this higher state of being, and you may also know that there are as many paths as there are people on them. So take this as an example, not as a model. I have been trapped disappointed and satisfied along this path and I know very well that it is not over yet, I still have to discover Arch, i3-gaps, alacritty and many others! 
 
