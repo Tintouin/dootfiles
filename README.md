@@ -1,4 +1,4 @@
-# Tintouin's desktop configs
+# Tintouin's desktop configs [WIP]
 Configs for linux 
 
 used on debian by Le_TINTOUIN
