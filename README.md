@@ -2,9 +2,11 @@
 Configs for linux 
 
 used on debian by Le_TINTOUIN
-
+###### This is a darkmode config
 I started to write my dotfiles in order to conserve my work. <br />
 I was also motivated by the fact that I wanted to switch from debian to arch in order to pursue my "linux trip". Like I've already done big switches before. <br />
+#### The goal of a full rice for my own use
+I made it public so everyone can see it or even use it but it's not made for any community so if you want to change sompething on the main file, like submit me a cool theme that you find legitimate here, but it'll appear in the main ONLY if I want to use it myself !
 ## Requirements
 ### xfce4
 Last LTS
