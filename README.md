@@ -44,4 +44,4 @@ I leave you with this anonymous quote found in several source codes:
 //Thank you for incrementing this counter to warn the next 
 //person.
 //
-//wasted_hours = 254``` 
+//wasted_hours = 254 ```
