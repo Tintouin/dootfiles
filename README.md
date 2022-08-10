@@ -18,6 +18,8 @@ The prompt that I discovered with Kali. I fell in love with it, Oh-My-zsh you ma
 Use this command→ `bash -c  "$(wget -qO- https://git.io/vQgMr)" ` <br />
 For my favourites themes (and the one that I think can suit the general theme) type `12 14 25 74 80 85 167 199 218 222 224` <br />
 If you want to select you owns check this website : https://gogh-co.github.io/Gogh/
+### Ubunly
+Just see here https://github.com/alejandromume/ubunly-zsh-theme
 ### GTK 
 &nbsp; ↳ Since you have xfce4 you may normally have gtk <br />
 Here is the theme that I've selected : https://github.com/TerminalHash/Modern <br />
