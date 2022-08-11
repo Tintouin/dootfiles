@@ -12,6 +12,8 @@ I made it public so everyone can see it or even use it but it's not made for any
 Last LTS
 ### i3
 &nbsp; ↳ Normally you'll automaticaly get i3bar and i3status with i3<br />
+### i3blocks
+An i3status pushed to its best.
 ### zsh + oh my zsh
 The prompt that I discovered with Kali. I fell in love with it, Oh-My-zsh you made it so easy !
 ### gogh themes 
